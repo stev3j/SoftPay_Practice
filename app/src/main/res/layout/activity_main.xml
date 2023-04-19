@@ -5,8 +5,8 @@
 
     <data>
         <variable
-            name="main"
-            type="com.example.softpaypractice.root.MainActivity"/>
+            name="viewModel"
+            type="com.example.softpaypractice.root.MainViewModel"/>
     </data>
 
     <fragment

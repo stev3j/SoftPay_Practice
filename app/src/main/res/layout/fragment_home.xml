@@ -7,14 +7,14 @@
 
         <variable
             name="viewModel"
-            type="com.example.softpaypractice.main.MainFragmentViewModel" />
+            type="com.example.softpaypractice.main.HomeViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@color/background"
-        tools:context=".main.MainFragment">
+        tools:context=".main.HomeFragment">
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
